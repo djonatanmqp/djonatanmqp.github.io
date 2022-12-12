@@ -14,7 +14,7 @@
       <a href="#">Início</a>
       <a href="#">Sobre</a>
       <a href="#">Blog</a>
-      <a href="#">Portfólio</a>
+      <a href="https://djonatan.myportfolio.com/" target="_blank">Portfólio</a>
       <a href="#">Contato</a>
       <div class="animation start-home"></div>
     </nav>
