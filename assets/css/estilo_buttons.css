@@ -1,3 +1,6 @@
+/* 154 CSS Buttons */
+/* https://freefrontend.com/css-buttons/ */
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
 :root {
   --color-red: #ec1840;
@@ -44,7 +47,7 @@ main a {
   color: var(--color-white);
   trasnition: var(--speed-normal);
   border: 1px solid var(--color-red);
-  
+
   background: var(--color-black-1);
 }
 main a:hover {

@@ -1,0 +1,35 @@
+/* LAYOUT MAIN */
+main { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .perfil_foto {
+    position: relative;
+    text-align: center;
+  }
+  
+  .perfil_foto img{
+    height: 300px;
+    border-radius: 8px;
+  }
+  
+  #titulo {
+    position: relative;
+    color: #2BD6B4;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  #subtitulo {
+    position: relative;
+    color: grey;
+    font-size: 18px;
+    text-align: center;
+  }
